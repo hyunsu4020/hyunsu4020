@@ -8,7 +8,8 @@
       <img alt="green" src="/badge/-green-green">
     </span>
     <span display="inline" height="20px" class="common__BadgeWrapper-sc-11baoah-3 gShovq">
-      <img alt="yellowgreen" src="/badge/-yellowgreen-yellowgreen"></span>
+      <img alt="yellowgreen" src="/badge/-yellowgreen-yellowgreen">
+    </span>
     <span display="inline" height="20px" class="common__BadgeWrapper-sc-11baoah-3 gShovq">
       <img alt="yellow" src="/badge/-yellow-yellow">
     </span>
