@@ -26,14 +26,14 @@
 
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
-  <a href="https://hynucode.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://hynucode.tistory.com/"/></a>&nbsp
+  <a href="https://hynucode.tistory.com/"><img src="https://img.shields.io/badge/Tistory-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://hynucode.tistory.com/"/></a>&nbsp
   <a href="https://www.instagram.com/hslyrical/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hslyrical/"/></a>&nbsp
-  <a href="https://blog.naver.com/dlgustn4020"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=https://blog.naver.com/dlgustn4020"/></a>
+  <a href="https://blog.naver.com/dlgustn4020"><img src="https://img.shields.io/badge/Naver-d14836?style=flat-square&logo=Gmail&logoColor=white&link=https://blog.naver.com/dlgustn4020"/></a>
 </p>
 <br>
 
 <p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwookyoungkim&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunsu4020&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
 </p>
 
 
