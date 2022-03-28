@@ -3,6 +3,8 @@
 <div align = "center">
   ### 🖐 Hi there! 🖐
   #### I'm university student
+  
+  <br/>
 
   ### 📖 Languages 📖
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -34,8 +36,3 @@
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunsu4020&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
 </p>
-
-
-![trophy](https://github-profile-trophy.vercel.app/?username=hyunsu4020)
-![hyunsu4020's github stats](https://github-readme-stats.vercel.app/api?username=hyunsu4020&show_icons=true)
-[![hyunsu4020's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunsu4020&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/hyunsu4020)
