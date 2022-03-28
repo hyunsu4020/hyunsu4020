@@ -21,8 +21,12 @@
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
 </p>
 
-<br>
+### 🤔 I'm Interested in.. 🤔
+<img src="https://img.shields.io/badge/Data-000000?style=flat-square&logo=Data&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Backend-FA7343?style=flat-square&logo=Backend&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> 
 
+<br>
 
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
