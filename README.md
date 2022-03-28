@@ -2,7 +2,7 @@
 
 <div align = "center">
   ### 🖐 Hi there! 🖐<br>
-  #### I'm university student
+  ### I'm university student
   
   <br>
 
