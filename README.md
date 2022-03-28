@@ -28,7 +28,7 @@
   <br>
   <br>
   
-  ![hyunsu4020's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunsu4020&show_icons=true&theme=radical)
+  ![hyunsu4020's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunsu4020&show_icons=true&theme=radical)<br>
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlgustn4020)](https://solved.ac/dlgustn4020)
 
   <h3> 🧸 Me 🧸 </h3>
