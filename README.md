@@ -1,12 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=LeeHyunSu&fontSize=70&animation=twinkling)
 
-<p align="center">university student</p>
+<div align = "center">
+  ### 🖐 Hi there! 🖐
+  #### I'm university student
 
-<h3 align="center">🛠 Tech Study Hard 🛠</h3>
-
-<p align="center">I want to be a data developer</p>
-
-<p align="center">
+  ### 📖 Languages 📖
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Ruby-6DB33F?style=flat-square&logo=Ruby&logoColor=white"/></a>&nbsp 
@@ -19,16 +17,11 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
-</p>
 
-<p align="center">
   ### 🤔 I'm Interested in.. 🤔<br>
   <img src="https://img.shields.io/badge/Data-6DB33F?style=flat-square&logo=Data&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Backend-FA7343?style=flat-square&logo=Backend&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> 
-</p>
-
-<br>
 
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
