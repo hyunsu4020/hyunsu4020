@@ -24,8 +24,8 @@
   <img src="https://img.shields.io/badge/Linux-E6B91E?style=flat-square&logo=Linux&logoColor=white"/></a>
 
   ### 🤔 I'm Interested in.. 🤔<br>
-  <img src="https://img.shields.io/badge/DataBase-6DB33F?style=flat-square&logo=Data&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Back end-FA7343?style=flat-square&logo=Backend&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/DataBase-6DB33F?style=flat-square&logo=DataBase&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Backend-FA7343?style=flat-square&logo=Backend&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> 
   
   <br>
