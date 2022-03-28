@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Backend-FA7343?style=flat-square&logo=Backend&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> 
   
-  <br/>
+  <br>
   
   ![hyunsu4020's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunsu4020&show_icons=true&theme=radical)
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlgustn4020)](https://solved.ac/dlgustn4020)
