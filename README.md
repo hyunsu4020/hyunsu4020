@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=LeeHyunSu&fontSize=70&animation=twinkling)
-![trophy](https://github-profile-trophy.vercel.app/?username=hyunsu4020)<br><br>
 
 <div align = "center">
   ### 🖐 Hi there! 🖐<br>
@@ -32,6 +31,7 @@
   <br>
   <br>
   
+  ![trophy](https://github-profile-trophy.vercel.app/?username=hyunsu4020)
   ![hyunsu4020's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunsu4020&show_icons=true&theme=radical)<br><br>
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlgustn4020)](https://solved.ac/dlgustn4020)
 
