@@ -31,7 +31,7 @@
   <br>
   <br>
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=hyunsu4020=onedark)](https://github.com/ryo-ma/github-profile-trophy)<br><br>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=hyunsu4020=onedark)](https://github.com/hyunsu4020/github-profile-trophy)<br><br>
   ![hyunsu4020's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunsu4020&show_icons=true&theme=radical)<br><br>
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlgustn4020)](https://solved.ac/dlgustn4020)
 
