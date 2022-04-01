@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=LeeHyunSu&fontSize=70&animation=twinkling)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=cold)
 
 <div align = "center">
   ### 🖐 Hi there! 🖐<br>
