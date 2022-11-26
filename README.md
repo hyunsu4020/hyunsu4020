@@ -40,6 +40,7 @@
     <a href="https://hynucode.tistory.com/"><img src="https://img.shields.io/badge/Tistory-11B48A?style=flat-   quare&logo=Tistory&logoColor=white&link=https://hynucode.tistory.com/"/></a>&nbsp
     <a href="https://www.instagram.com/hslyrical/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hslyrical/"/></a>&nbsp
     <a href="https://blog.naver.com/dlgustn4020"><img src="https://img.shields.io/badge/Naver-d14836?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/dlgustn4020"/></a>
+  <a href="https://velog.io/@hyunsu4020"><img src="https://img.shields.io/badge/Velog-#20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@hyunsu4020"/></a>
   </p>
   
   <br>
